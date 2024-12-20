@@ -94,8 +94,6 @@ function Autocomplete(field, options) {
         value: this.options.value ? entry[this.options.value] : entry,
       };
 
-      console.log(item);
-
       if (item["label"].toLowerCase().indexOf(lookup.toLowerCase()) >= 0) {
         items.appendChild(this.createItem(lookup, item));
         if (
