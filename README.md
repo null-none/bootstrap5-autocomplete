@@ -44,7 +44,7 @@ The data from where autocomplete will lookup items to show. This data can be a s
     {"label": "Option 1", "value": 1}
 
 **dropdownOptions**:  
-It's the same options from Bootstrap's Dropdown, documented [here](https://getbootstrap.com/docs/5.0/components/dropdowns/#options).
+It's the same options from Bootstrap's Dropdown, documented [here](https://getbootstrap.com/docs/5.2/components/dropdowns/#options).
 
 **dropdownClass**:  
 The class of the dropdown-menu element, which is the box that is displayed. Can take a string or an array of strings.
