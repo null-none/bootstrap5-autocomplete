@@ -64,7 +64,3 @@ The number of characters that need to be typed on the input in order to trigger 
 
 **value**:  
 The name of the `value` key in your data.
-
-### License
-
-MIT
