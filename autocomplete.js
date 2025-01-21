@@ -1,5 +1,4 @@
 function Autocomplete(field, options) {
-
   function ce(html) {
     let div = document.createElement("div");
     div.innerHTML = html;

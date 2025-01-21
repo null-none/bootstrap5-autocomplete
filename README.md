@@ -1,4 +1,4 @@
-# bootstrap5-autocomplete
+# autocomplete-bootstrap
 
 ### Usage
 

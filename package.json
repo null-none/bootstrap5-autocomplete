@@ -1,0 +1,28 @@
+{
+  "name": "autocomplete-bootstrap",
+  "version": "1.0.0",
+  "description": "Autocomplete for Bootstrap v5",
+  "main": "autocomplete.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/null-none/bootstrap5-autocomplete"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "keywords": [
+    "autocomplete",
+    "bootstrap",
+    "bootstrap5"
+  ],
+  "bugs": {
+    "url": "https://github.com/null-none/bootstrap5-autocomplete/issues"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  },
+  "homepage": "https://github.com/null-none/bootstrap5-autocomplete",
+  "author": "Dmitry Kalinin",
+  "license": "MIT"
+}
