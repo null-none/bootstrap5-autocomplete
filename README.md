@@ -1,5 +1,11 @@
 # autocomplete-bootstrap
 
+### Install
+
+```bash
+npm install autocomplete-bootstrap
+```
+
 ### Usage
 
 ```html
